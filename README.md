@@ -1,1 +1,24 @@
 # PowerBI-Project
+
+Banka Genel Performans Projesi
+
+https://app.powerbi.com/view?r=eyJrIjoiNzZlZTRmNzktMzgwMS00ODZkLTkwZGMtYzRmMzc1ZTZlOGQ1IiwidCI6IjliNjVmZjkxLTg1ZTQtNDAyNS1iNTRiLTFmZGRhNzZkM2JiMyIsImMiOjl9
+
+MEDAS Elektrik örnek veriler çalışması 
+
+https://app.powerbi.com/view?r=eyJrIjoiMjU5MTk0NmMtY2ExMi00Y2Q4LWFjNTMtMzI5YzQ3ODU5MDE1IiwidCI6IjliNjVmZjkxLTg1ZTQtNDAyNS1iNTRiLTFmZGRhNzZkM2JiMyIsImMiOjl9
+
+ERÇAL GROUP mülakat case i (Veriler şirketin örnek verileri)
+
+https://app.powerbi.com/view?r=eyJrIjoiZGZmZGU3YjItNGE2Yi00YjczLWEwODEtY2IyNjk5ZjVjNDNiIiwidCI6IjliNjVmZjkxLTg1ZTQtNDAyNS1iNTRiLTFmZGRhNzZkM2JiMyIsImMiOjl9
+
+Basit Satıcı Dashboard u 
+
+https://app.powerbi.com/view?r=eyJrIjoiOGU0ZGY3MTItMDA2Yy00YjdjLWEwMGQtNzE0OGZkZDEzOWU5IiwidCI6IjliNjVmZjkxLTg1ZTQtNDAyNS1iNTRiLTFmZGRhNzZkM2JiMyIsImMiOjl9
+
+Basit Ödev 
+
+https://app.powerbi.com/view?r=eyJrIjoiMjAxY2JkMzAtNzIxYi00NGM2LWIyYTAtYTNjY2U2Y2M4MThiIiwidCI6IjliNjVmZjkxLTg1ZTQtNDAyNS1iNTRiLTFmZGRhNzZkM2JiMyIsImMiOjl9
+
+
+
